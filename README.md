@@ -2,7 +2,9 @@
 
 Just a small script to Automate creating new projects
 
+```
 $ nugit <name>
+```
 
 - Create Project folder
 - Create README.md with project name
